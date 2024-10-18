@@ -1,3 +1,4 @@
+#exercise2 
 import math
 N_values = []
 input = input("Give me your integers (separate them by space): ")
